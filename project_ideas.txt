@@ -1,0 +1,4 @@
+1) IRIS Dataset classification
+2) Titanic survival
+3) MNIST Numbers
+4) Learn flask
